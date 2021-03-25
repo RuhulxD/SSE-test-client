@@ -18,9 +18,9 @@ As all the browser has a limitation of creating SSE connections, a simple test c
 ## EndPoints:
 
 1. ### Request: SSE end point
-    * ###Method
+    * ### Method
       GET
-    * ###path
+    * ### path
       /public/ping/subscribe
    ### Response
     * Media type: `Content-Type: text/event-stream;charset=UTF-8`
